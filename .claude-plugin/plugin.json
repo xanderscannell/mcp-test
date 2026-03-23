@@ -1,0 +1,16 @@
+{
+  "name": "YOUR_PLUGIN_NAME",
+  "version": "1.0.0",
+  "description": "YOUR_DESCRIPTION",
+  "author": {
+    "name": "YOUR_NAME",
+    "email": "YOUR_EMAIL",
+    "url": "https://github.com/YOUR_USERNAME"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/YOUR_REPO",
+  "repository": "https://github.com/YOUR_USERNAME/YOUR_REPO",
+  "license": "MIT",
+  "keywords": [
+    "mcp"
+  ]
+}
