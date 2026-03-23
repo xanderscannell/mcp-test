@@ -1,14 +1,14 @@
 {
-  "name": "YOUR_PLUGIN_NAME",
+  "name": "mcp-test",
   "version": "1.0.0",
-  "description": "YOUR_DESCRIPTION",
+  "description": "A test MCP plugin",
   "author": {
-    "name": "YOUR_NAME",
-    "email": "YOUR_EMAIL",
-    "url": "https://github.com/YOUR_USERNAME"
+    "name": "xande",
+    "email": "",
+    "url": "https://github.com/xanderscannell"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/YOUR_REPO",
-  "repository": "https://github.com/YOUR_USERNAME/YOUR_REPO",
+  "homepage": "https://github.com/xanderscannell/mcp-test",
+  "repository": "https://github.com/xanderscannell/mcp-test",
   "license": "MIT",
   "keywords": [
     "mcp"

@@ -1,7 +1,7 @@
 // Minimal MCP server — no dependencies required.
 // See the full spec at https://modelcontextprotocol.io
 
-const SERVER_NAME = "YOUR_PLUGIN_NAME";
+const SERVER_NAME = "mcp-test";
 const SERVER_VERSION = "1.0.0";
 
 // --- Define your tools here ---
